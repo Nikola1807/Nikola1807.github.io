@@ -1,0 +1,94 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: gray;
+}
+
+#particles-js{
+  background-image: url(image/pic2.jpeg);
+  background-size: cover;
+  height: 1000px;
+
+}
+
+h1{
+  color: #fff;
+  position: absolute;
+  top: 500px;
+  bottom: 500px;
+  left: 500px;
+  right: 500px;
+  font-family: arial;
+  font-size: 60px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+
+}
+
+.l1{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 600px;
+  bottom: 600px;
+  left: 500px;
+  right: 500px;
+
+}
+
+.l1 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}
+
+.l2{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 600px;
+  bottom: 600px;
+  left: 600px;
+  right: 600px;
+}
+
+.l2 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}
+
+
+.l4{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 600px;
+  bottom: 600px;
+  left: 700px;
+  right: 700px;
+}
+
+.l4 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}

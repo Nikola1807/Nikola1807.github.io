@@ -1,0 +1,253 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: gray;
+}
+
+#particles-js{
+  background-image: url(image/pic2.jpeg);
+  background-size: cover;
+  height: 1000px;
+
+}
+
+h1{
+  color: #fff;
+  position: absolute;
+  top: 50px;
+  bottom: 50px;
+  left: 750px;
+  right: 750px;
+  font-family: arial;
+  font-size: 60px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ul{
+
+}
+
+.l1{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  bottom: 150px;
+  left: 750px;
+  right: 750px;
+}
+
+.l1 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}
+
+.l2{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  bottom: 150px;
+  left: 850px;
+  right: 850px;
+}
+
+.l2 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}
+
+.l4{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  bottom: 150px;
+  left: 950px;
+  right: 950px;
+}
+
+.l4 a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+  font-size: 25px;
+  font-family: arial;
+  padding: 0 20px;
+}
+
+#image{
+  border-style: solid;
+}
+
+.pic1{
+  width: 30px;
+    height: 30px;
+    position: absolute;
+    right: 600px;
+    left: 600px;
+    top: 250px;
+    bottom: 250px;
+    border-radius: 70%;
+}
+
+.P1 a{
+  color: #fff;
+  font-family: arial;
+  font-size: 20px;
+  position: absolute;
+  top: 250px;
+  bottom: 250px;
+  right: 650px;
+  left: 650px;
+  list-style: none;
+
+}
+
+.pic2{
+  width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 600px;
+    left: 600px;
+    top: 300px;
+    bottom: 300px;
+
+}
+
+.two{
+  color: white;
+    font-family: arial;
+    position: absolute;
+    bottom: 300px;
+    top: 300px;
+    left: 650px;
+    right: 650px;
+    font-size: 20px;
+}
+
+.pic3{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 600px;
+    left: 600px;
+    top: 350px;
+    bottom: 350px;
+}
+
+.three{
+    color: white;
+    font-family: arial;
+    position: absolute;
+    bottom: 350px;
+    top: 350px;
+    left: 650px;
+    right: 650px;
+    font-size: 20px;
+}
+
+.pic4{
+  width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 950px;
+    left: 950px;
+    top: 250px;
+    bottom: 250px;
+}
+
+.four{
+  color: white;
+  font-family: arial;
+  position: absolute;
+  bottom: 250px;
+  top: 250px;
+  left: 1000px;
+  right: 1000px;
+  font-size: 20px;
+}
+
+.pic5{
+  width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 950px;
+    left: 950px;
+    top: 300px;
+    bottom: 300px;
+}
+
+.five{
+  color: white;
+  font-family: arial;
+  position: absolute;
+  bottom: 290px;
+  top: 290px;
+  left: 1000px;
+  right: 1000px;
+  font-size: 20px;
+}
+
+.pic6{
+  width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 950px;
+    left: 950px;
+    top: 350px;
+    bottom: 350px;
+}
+
+.six{
+  color: white;
+  font-family: arial;
+  position: absolute;
+  bottom: 350px;
+  top: 350px;
+  left: 1000px;
+  right: 1000px;
+  font-size: 20px;
+}
+
+.pic7{
+  width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    right: 950px;
+    left: 950px;
+    top: 400px;
+    bottom: 400px;
+}
+
+.seven{
+  color: white;
+  font-family: arial;
+  position: absolute;
+  bottom: 400px;
+  top: 400px;
+  left: 1000px;
+  right: 1000px;
+  font-size: 20px;
+}
